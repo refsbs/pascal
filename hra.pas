@@ -19,7 +19,7 @@ end;
 function jetu1:boolean;
 begin
 writeln('');
-writeln('a tu?: 4,5,6,7,12,13,14,15 a/n');
+writeln('a tu?: 4,5,6,7,12,13,14,15 (a/n)');
 B:=ReadKey;
 if (B = #97) then
 jetu1:=true
@@ -30,7 +30,7 @@ end;
 function jetu2:boolean;
 begin
 writeln('');
-writeln('a tu?: 2,3,6,7,10,11,14,15 a/n');
+writeln('a tu?: 2,3,6,7,10,11,14,15 (a/n)');
 B:=ReadKey;
 if (B = #97) then
 jetu2:=true
@@ -41,7 +41,7 @@ end;
 function jetu3:boolean;
 begin
 writeln('');
-writeln('a tu?: 1,3,5,7,9,11,13,15 a/n');
+writeln('a tu?: 1,3,5,7,9,11,13,15 (a/n)');
 B:=ReadKey;
 if (B = #97) then
 jetu3:=true
