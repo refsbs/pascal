@@ -1,5 +1,3 @@
-//by *andrew (27)*
-
 program hra;
 uses crt;
 var X:integer;
@@ -56,6 +54,7 @@ repeat
 clrscr;
 X:=0;
 
+TextColor(LightCyan);
 writeln('mysli si cislo od 1 do 15');
 
 if jetu  then X:=X+8;
@@ -68,4 +67,4 @@ writeln('Myslel si si cislo ',X);
 writeln('Odznova? (a/n)');
 C:=ReadKey;
 until (C=#110);
-end.
+end. //27
