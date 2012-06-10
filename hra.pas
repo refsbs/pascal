@@ -1,3 +1,6 @@
+//program uhadne myslene cislo od 1 do 15 polozenim len 4 otazok
+//screen http://puu.sh/zXYv
+
 program hra;
 uses crt;
 var X:integer;
