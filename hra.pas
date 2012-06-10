@@ -1,5 +1,5 @@
 //program uhadne myslene cislo od 1 do 15 polozenim len 4 otazok
-//screen http://puu.sh/zXYv
+//screen http://i50.tinypic.com/1z5l09j.png -> odpovede n,a,n,a
 
 program hra;
 uses crt;
